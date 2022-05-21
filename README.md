@@ -1,8 +1,8 @@
-### Data Structures in JavaScript
+# Data Structures in JavaScript
 
 This repository contains source code examples that explain the various methods to implement different data structures using the JavaScript programming language. The files are named after a particular data structure to indicate that it contains code to illustrate that particular data structure.
 
-# Contents of the Repository
+## Contents of the Repository
 1. Arrays
 2. Objects (hash tables)
 3. Stacks
