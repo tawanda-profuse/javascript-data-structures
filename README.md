@@ -8,9 +8,12 @@ This repository contains source code examples that explain the various methods t
 3. Stacks
 4. Queues
 5. Linked Lists
+![In a singly linked list each node has a single pointer](https://www.freecodecamp.org/news/content/images/2022/05/linked-list.png)
    - Singly Linked Lists
+![In a double linked list each node has two pointers](https://www.freecodecamp.org/news/content/images/2022/05/doubly-linked-list.png)
    - Doubly Linked Lists
 6. Trees
+![Tree Data Structure](https://www.freecodecamp.org/news/content/images/2022/05/images.png)
    - Binary trees
    - Heaps
 7. Graphs
