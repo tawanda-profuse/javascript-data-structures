@@ -16,9 +16,17 @@ This repository contains source code examples that explain the various methods t
 ![Tree Data Structure](https://www.freecodecamp.org/news/content/images/2022/05/images.png)
    - Binary trees
    - Heaps
+   ![A max heap](https://www.freecodecamp.org/news/content/images/2022/05/max_heap_example.jpg)
+   ![A min heap](https://www.freecodecamp.org/news/content/images/2022/05/min_heap_example.jpg)
 7. Graphs
+   ![A Graph](https://www.freecodecamp.org/news/content/images/2022/05/images-1.png)
    - Undirected and directed graphs
+   ![An undirected graph](https://www.freecodecamp.org/news/content/images/2022/05/Undirected_graph.svg.png)
+   
+   ![A directed graph](https://www.freecodecamp.org/news/content/images/2022/05/images-1.png)
+
    - Weighted and unweighted graphs
+   ![Weighted graph](https://www.freecodecamp.org/news/content/images/2022/05/1_P68VQPcnFXBo9XlA4pDNrg.png)
    - Graph Representation
 
 Credit the original author Germán Cocca from the article: [Data Structures in JavaScript – With Code Examples](https://www.freecodecamp.org/news/data-structures-in-javascript-with-examples/)
