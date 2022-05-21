@@ -37,4 +37,23 @@ class Graph{
     }
 }
 
+const Argentina = new Graph()
+Argentina.addNode("Buenos Aires")
+Argentina.addNode("Santa fe")
+Argentina.addNode("Córdoba")
+Argentina.addNode("Mendoza")
+Argentina.addConnection("Buenos Aires", "Córdoba")
+Argentina.addConnection("Buenos Aires", "Mendoza")
+Argentina.addConnection("Santa fe", "Córdoba")
+
+console.log(Argentina)
+// Graph {
+//     adjacencyList: {
+//         'Buenos Aires': [ 'Córdoba', 'Mendoza' ],
+//         'Santa fe': [ 'Córdoba' ],
+//         'Córdoba': [ 'Buenos Aires', 'Santa fe' ],
+//         Mendoza: [ 'Buenos Aires' ]
+//     }
+// }
+
 
